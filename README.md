@@ -1,5 +1,5 @@
 # mo_rong_lop
-Hệ thống đăng kí mở rộng lớp( Spring Boot + Thymeleaf + JPA)
+Hệ thống đăng kí mở rộng lớp( Spring Boot + Thymeleaf + JPA + MySQL)
 
 Trang đăng nhập 
 ![image](https://user-images.githubusercontent.com/57974138/162258907-dd884bd2-ecb6-463f-a142-b22eea96699d.png)
