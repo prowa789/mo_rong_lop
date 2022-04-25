@@ -36,6 +36,6 @@ Giao diện thêm lớp đăng kí
 Giao điện sửa lớp đăng kí
 ![image](https://user-images.githubusercontent.com/57974138/162259875-aa6eb025-0934-45d3-8375-c0ede5f6b556.png)
 
-Phân quyền
+Phân quyền ( khi tài khoản sinh viên mà vào trang giáo vụ sẽ có thông báo )
 ![image](https://user-images.githubusercontent.com/57974138/162260067-941840d7-d243-48d3-a92f-c8d839e4740f.png)
 
